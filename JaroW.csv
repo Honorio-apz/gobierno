@@ -1,0 +1,362 @@
+Id_PG1,Id_PG2,JaroW_Dictance
+Accion Popular,Accion Popular,1.0
+Accion Popular,Partido Morado,0.575843
+Accion Popular,Avanza Pais,0.724887
+Accion Popular,Alianza para el Progreso,0.55005
+Accion Popular,APRA,0.743515
+Accion Popular,Democracia Directa,0.651307
+Accion Popular,Frente Amplio,0.640843
+Accion Popular,Frente Esperanza,0.739887
+Accion Popular,Fuerza Popular,0.620264
+Accion Popular,Juntos por el Peru,0.625261
+Accion Popular,Partido Nacionalista,0.684624
+Accion Popular,Peru Libre,0.649489
+Accion Popular,Patria Segura,0.567246
+Accion Popular,Podemos Peru,0.624812
+Accion Popular,PPC,0.582629
+Accion Popular,Renovavion Popular,0.755441
+Accion Popular,Somos Peru,0.572165
+Accion Popular,Union por el Peru,0.789765
+Accion Popular,Victoria Nacional,0.572602
+Partido Morado,Accion Popular,0.575843
+Partido Morado,Partido Morado,1.0
+Partido Morado,Avanza Pais,0.552457
+Partido Morado,Alianza para el Progreso,0.712314
+Partido Morado,APRA,0.603758
+Partido Morado,Democracia Directa,0.664654
+Partido Morado,Frente Amplio,0.677673
+Partido Morado,Frente Esperanza,0.605427
+Partido Morado,Fuerza Popular,0.709564
+Partido Morado,Juntos por el Peru,0.700391
+Partido Morado,Partido Nacionalista,0.635991
+Partido Morado,Peru Libre,0.667741
+Partido Morado,Patria Segura,0.799592
+Partido Morado,Podemos Peru,0.701584
+Partido Morado,PPC,0.810796
+Partido Morado,Renovavion Popular,0.558641
+Partido Morado,Somos Peru,0.823357
+Partido Morado,Union por el Peru,0.588104
+Partido Morado,Victoria Nacional,0.824263
+Avanza Pais,Accion Popular,0.724694
+Avanza Pais,Partido Morado,0.552695
+Avanza Pais,Avanza Pais,1.0
+Avanza Pais,Alianza para el Progreso,0.535595
+Avanza Pais,APRA,0.66056
+Avanza Pais,Democracia Directa,0.601018
+Avanza Pais,Frente Amplio,0.594782
+Avanza Pais,Frente Esperanza,0.658458
+Avanza Pais,Fuerza Popular,0.581051
+Avanza Pais,Juntos por el Peru,0.5845
+Avanza Pais,Partido Nacionalista,0.623063
+Avanza Pais,Peru Libre,0.600098
+Avanza Pais,Patria Segura,0.546796
+Avanza Pais,Podemos Peru,0.58402
+Avanza Pais,PPC,0.556861
+Avanza Pais,Renovavion Popular,0.800662
+Avanza Pais,Somos Peru,0.550137
+Avanza Pais,Union por el Peru,0.691455
+Avanza Pais,Victoria Nacional,0.550086
+Alianza para el Progreso,Accion Popular,0.549991
+Alianza para el Progreso,Partido Morado,0.712359
+Alianza para el Progreso,Avanza Pais,0.536047
+Alianza para el Progreso,Alianza para el Progreso,1.0
+Alianza para el Progreso,APRA,0.566805
+Alianza para el Progreso,Democracia Directa,0.603602
+Alianza para el Progreso,Frente Amplio,0.611852
+Alianza para el Progreso,Frente Esperanza,0.567705
+Alianza para el Progreso,Fuerza Popular,0.631244
+Alianza para el Progreso,Juntos por el Peru,0.625588
+Alianza para el Progreso,Partido Nacionalista,0.586673
+Alianza para el Progreso,Peru Libre,0.605776
+Alianza para el Progreso,Patria Segura,0.74287
+Alianza para el Progreso,Podemos Peru,0.626597
+Alianza para el Progreso,PPC,0.693535
+Alianza para el Progreso,Renovavion Popular,0.539594
+Alianza para el Progreso,Somos Peru,0.72472
+Alianza para el Progreso,Union por el Peru,0.557433
+Alianza para el Progreso,Victoria Nacional,0.723749
+APRA,Accion Popular,0.74377
+APRA,Partido Morado,0.604172
+APRA,Avanza Pais,0.660323
+APRA,Alianza para el Progreso,0.566984
+APRA,APRA,1.0
+APRA,Democracia Directa,0.711576
+APRA,Frente Amplio,0.696604
+APRA,Frente Esperanza,0.831361
+APRA,Fuerza Popular,0.666722
+APRA,Juntos por el Peru,0.674187
+APRA,Partido Nacionalista,0.758998
+APRA,Peru Libre,0.709032
+APRA,Patria Segura,0.591676
+APRA,Podemos Peru,0.673281
+APRA,PPC,0.613246
+APRA,Renovavion Popular,0.682064
+APRA,Somos Peru,0.598484
+APRA,Union por el Peru,0.78636
+APRA,Victoria Nacional,0.59887
+Democracia Directa,Accion Popular,0.651511
+Democracia Directa,Partido Morado,0.66428
+Democracia Directa,Avanza Pais,0.600973
+Democracia Directa,Alianza para el Progreso,0.603757
+Democracia Directa,APRA,0.711821
+Democracia Directa,Democracia Directa,1.0
+Democracia Directa,Frente Amplio,0.815454
+Democracia Directa,Frente Esperanza,0.714469
+Democracia Directa,Fuerza Popular,0.768365
+Democracia Directa,Juntos por el Peru,0.78091
+Democracia Directa,Partido Nacionalista,0.778888
+Democracia Directa,Peru Libre,0.822163
+Democracia Directa,Patria Segura,0.64442
+Democracia Directa,Podemos Peru,0.778853
+Democracia Directa,PPC,0.680332
+Democracia Directa,Renovavion Popular,0.614267
+Democracia Directa,Somos Peru,0.655445
+Democracia Directa,Union por el Peru,0.677059
+Democracia Directa,Victoria Nacional,0.656114
+Frente Amplio,Accion Popular,0.641186
+Frente Amplio,Partido Morado,0.677836
+Frente Amplio,Avanza Pais,0.594295
+Frente Amplio,Alianza para el Progreso,0.611792
+Frente Amplio,APRA,0.696645
+Frente Amplio,Democracia Directa,0.816016
+Frente Amplio,Frente Amplio,1.0
+Frente Amplio,Frente Esperanza,0.699283
+Frente Amplio,Fuerza Popular,0.789953
+Frente Amplio,Juntos por el Peru,0.803288
+Frente Amplio,Partido Nacionalista,0.759606
+Frente Amplio,Peru Libre,0.819037
+Frente Amplio,Patria Segura,0.655826
+Frente Amplio,Podemos Peru,0.8016
+Frente Amplio,PPC,0.695
+Frente Amplio,Renovavion Popular,0.606533
+Frente Amplio,Somos Peru,0.668095
+Frente Amplio,Union por el Peru,0.66536
+Frente Amplio,Victoria Nacional,0.668787
+Frente Esperanza,Accion Popular,0.739909
+Frente Esperanza,Partido Morado,0.605327
+Frente Esperanza,Avanza Pais,0.658357
+Frente Esperanza,Alianza para el Progreso,0.568002
+Frente Esperanza,APRA,0.831434
+Frente Esperanza,Democracia Directa,0.7146
+Frente Esperanza,Frente Amplio,0.699238
+Frente Esperanza,Frente Esperanza,1.0
+Frente Esperanza,Fuerza Popular,0.669266
+Frente Esperanza,Juntos por el Peru,0.67678
+Frente Esperanza,Partido Nacionalista,0.762594
+Frente Esperanza,Peru Libre,0.711449
+Frente Esperanza,Patria Segura,0.592697
+Frente Esperanza,Podemos Peru,0.675673
+Frente Esperanza,PPC,0.614961
+Frente Esperanza,Renovavion Popular,0.67952
+Frente Esperanza,Somos Peru,0.599869
+Frente Esperanza,Union por el Peru,0.782744
+Frente Esperanza,Victoria Nacional,0.600295
+Fuerza Popular,Accion Popular,0.619878
+Fuerza Popular,Partido Morado,0.709458
+Fuerza Popular,Avanza Pais,0.580971
+Fuerza Popular,Alianza para el Progreso,0.631155
+Fuerza Popular,APRA,0.666712
+Fuerza Popular,Democracia Directa,0.768328
+Fuerza Popular,Frente Amplio,0.790133
+Fuerza Popular,Frente Esperanza,0.669337
+Fuerza Popular,Fuerza Popular,1.0
+Fuerza Popular,Juntos por el Peru,0.823735
+Fuerza Popular,Partido Nacionalista,0.719672
+Fuerza Popular,Peru Libre,0.772573
+Fuerza Popular,Patria Segura,0.683535
+Fuerza Popular,Podemos Peru,0.828869
+Fuerza Popular,PPC,0.730129
+Fuerza Popular,Renovavion Popular,0.591712
+Fuerza Popular,Somos Peru,0.698165
+Fuerza Popular,Union por el Peru,0.640457
+Fuerza Popular,Victoria Nacional,0.698916
+Juntos por el Peru,Accion Popular,0.625582
+Juntos por el Peru,Partido Morado,0.700139
+Juntos por el Peru,Avanza Pais,0.584433
+Juntos por el Peru,Alianza para el Progreso,0.625759
+Juntos por el Peru,APRA,0.674764
+Juntos por el Peru,Democracia Directa,0.781083
+Juntos por el Peru,Frente Amplio,0.803365
+Juntos por el Peru,Frente Esperanza,0.676961
+Juntos por el Peru,Fuerza Popular,0.82391
+Juntos por el Peru,Juntos por el Peru,1.0
+Juntos por el Peru,Partido Nacionalista,0.730363
+Juntos por el Peru,Peru Libre,0.785098
+Juntos por el Peru,Patria Segura,0.675225
+Juntos por el Peru,Podemos Peru,0.829875
+Juntos por el Peru,PPC,0.719624
+Juntos por el Peru,Renovavion Popular,0.595089
+Juntos por el Peru,Somos Peru,0.689463
+Juntos por el Peru,Union por el Peru,0.646493
+Juntos por el Peru,Victoria Nacional,0.689993
+Partido Nacionalista,Accion Popular,0.684638
+Partido Nacionalista,Partido Morado,0.635683
+Partido Nacionalista,Avanza Pais,0.622215
+Partido Nacionalista,Alianza para el Progreso,0.586319
+Partido Nacionalista,APRA,0.75911
+Partido Nacionalista,Democracia Directa,0.778838
+Partido Nacionalista,Frente Amplio,0.759125
+Partido Nacionalista,Frente Esperanza,0.762454
+Partido Nacionalista,Fuerza Popular,0.719783
+Partido Nacionalista,Juntos por el Peru,0.730089
+Partido Nacionalista,Partido Nacionalista,1.0
+Partido Nacionalista,Peru Libre,0.776023
+Partido Nacionalista,Patria Segura,0.619053
+Partido Nacionalista,Podemos Peru,0.728542
+Partido Nacionalista,PPC,0.648653
+Partido Nacionalista,Renovavion Popular,0.638735
+Partido Nacionalista,Somos Peru,0.628211
+Partido Nacionalista,Union por el Peru,0.716539
+Partido Nacionalista,Victoria Nacional,0.628997
+Peru Libre,Accion Popular,0.649948
+Peru Libre,Partido Morado,0.667723
+Peru Libre,Avanza Pais,0.599962
+Peru Libre,Alianza para el Progreso,0.605664
+Peru Libre,APRA,0.708864
+Peru Libre,Democracia Directa,0.822321
+Peru Libre,Frente Amplio,0.818951
+Peru Libre,Frente Esperanza,0.711958
+Peru Libre,Fuerza Popular,0.772704
+Peru Libre,Juntos por el Peru,0.785031
+Peru Libre,Partido Nacionalista,0.776122
+Peru Libre,Peru Libre,1.0
+Peru Libre,Patria Segura,0.646962
+Peru Libre,Podemos Peru,0.782865
+Peru Libre,PPC,0.683712
+Peru Libre,Renovavion Popular,0.613032
+Peru Libre,Somos Peru,0.658363
+Peru Libre,Union por el Peru,0.675059
+Peru Libre,Victoria Nacional,0.658968
+Patria Segura,Accion Popular,0.56764
+Patria Segura,Partido Morado,0.799476
+Patria Segura,Avanza Pais,0.547011
+Patria Segura,Alianza para el Progreso,0.743006
+Patria Segura,APRA,0.591702
+Patria Segura,Democracia Directa,0.644191
+Patria Segura,Frente Amplio,0.655606
+Patria Segura,Frente Esperanza,0.592803
+Patria Segura,Fuerza Popular,0.683422
+Patria Segura,Juntos por el Peru,0.675533
+Patria Segura,Partido Nacionalista,0.619624
+Patria Segura,Peru Libre,0.647032
+Patria Segura,Patria Segura,1.0
+Patria Segura,Podemos Peru,0.676872
+Patria Segura,PPC,0.772561
+Patria Segura,Renovavion Popular,0.552372
+Patria Segura,Somos Peru,0.817143
+Patria Segura,Union por el Peru,0.577994
+Patria Segura,Victoria Nacional,0.814639
+Podemos Peru,Accion Popular,0.624572
+Podemos Peru,Partido Morado,0.701631
+Podemos Peru,Avanza Pais,0.583964
+Podemos Peru,Alianza para el Progreso,0.626394
+Podemos Peru,APRA,0.673812
+Podemos Peru,Democracia Directa,0.778735
+Podemos Peru,Frente Amplio,0.801794
+Podemos Peru,Frente Esperanza,0.675808
+Podemos Peru,Fuerza Popular,0.828924
+Podemos Peru,Juntos por el Peru,0.830096
+Podemos Peru,Partido Nacionalista,0.728522
+Podemos Peru,Peru Libre,0.783124
+Podemos Peru,Patria Segura,0.67668
+Podemos Peru,Podemos Peru,1.0
+Podemos Peru,PPC,0.721531
+Podemos Peru,Renovavion Popular,0.594441
+Podemos Peru,Somos Peru,0.690672
+Podemos Peru,Union por el Peru,0.645285
+Podemos Peru,Victoria Nacional,0.69132
+PPC,Accion Popular,0.58284
+PPC,Partido Morado,0.81074
+PPC,Avanza Pais,0.557381
+PPC,Alianza para el Progreso,0.693501
+PPC,APRA,0.613762
+PPC,Democracia Directa,0.680703
+PPC,Frente Amplio,0.694782
+PPC,Frente Esperanza,0.615162
+PPC,Fuerza Popular,0.730052
+PPC,Juntos por el Peru,0.720032
+PPC,Partido Nacionalista,0.649034
+PPC,Peru Libre,0.683873
+PPC,Patria Segura,0.772668
+PPC,Podemos Peru,0.721361
+PPC,PPC,1.0
+PPC,Renovavion Popular,0.56358
+PPC,Somos Peru,0.794252
+PPC,Union por el Peru,0.596099
+PPC,Victoria Nacional,0.794409
+Renovavion Popular,Accion Popular,0.754927
+Renovavion Popular,Partido Morado,0.558077
+Renovavion Popular,Avanza Pais,0.800367
+Renovavion Popular,Alianza para el Progreso,0.539831
+Renovavion Popular,APRA,0.682282
+Renovavion Popular,Democracia Directa,0.614662
+Renovavion Popular,Frente Amplio,0.606454
+Renovavion Popular,Frente Esperanza,0.67954
+Renovavion Popular,Fuerza Popular,0.591208
+Renovavion Popular,Juntos por el Peru,0.595237
+Renovavion Popular,Partido Nacionalista,0.638696
+Renovavion Popular,Peru Libre,0.612656
+Renovavion Popular,Patria Segura,0.55251
+Renovavion Popular,Podemos Peru,0.594125
+Renovavion Popular,PPC,0.56359
+Renovavion Popular,Renovavion Popular,1.0
+Renovavion Popular,Somos Peru,0.555488
+Renovavion Popular,Union por el Peru,0.717776
+Renovavion Popular,Victoria Nacional,0.55561
+Somos Peru,Accion Popular,0.572034
+Somos Peru,Partido Morado,0.823269
+Somos Peru,Avanza Pais,0.550126
+Somos Peru,Alianza para el Progreso,0.724884
+Somos Peru,APRA,0.598694
+Somos Peru,Democracia Directa,0.655531
+Somos Peru,Frente Amplio,0.668138
+Somos Peru,Frente Esperanza,0.599734
+Somos Peru,Fuerza Popular,0.698213
+Somos Peru,Juntos por el Peru,0.689489
+Somos Peru,Partido Nacionalista,0.62863
+Somos Peru,Peru Libre,0.658613
+Somos Peru,Patria Segura,0.817166
+Somos Peru,Podemos Peru,0.69084
+Somos Peru,PPC,0.794355
+Somos Peru,Renovavion Popular,0.555973
+Somos Peru,Somos Peru,1.0
+Somos Peru,Union por el Peru,0.583203
+Somos Peru,Victoria Nacional,0.835785
+Union por el Peru,Accion Popular,0.789707
+Union por el Peru,Partido Morado,0.588153
+Union por el Peru,Avanza Pais,0.691681
+Union por el Peru,Alianza para el Progreso,0.557285
+Union por el Peru,APRA,0.786507
+Union por el Peru,Democracia Directa,0.677552
+Union por el Peru,Frente Amplio,0.664935
+Union por el Peru,Frente Esperanza,0.782294
+Union por el Peru,Fuerza Popular,0.639866
+Union por el Peru,Juntos por el Peru,0.646339
+Union por el Peru,Partido Nacionalista,0.716626
+Union por el Peru,Peru Libre,0.675052
+Union por el Peru,Patria Segura,0.577446
+Union por el Peru,Podemos Peru,0.645532
+Union por el Peru,PPC,0.595754
+Union por el Peru,Renovavion Popular,0.717805
+Union por el Peru,Somos Peru,0.583517
+Union por el Peru,Union por el Peru,1.0
+Union por el Peru,Victoria Nacional,0.583819
+Victoria Nacional,Accion Popular,0.572311
+Victoria Nacional,Partido Morado,0.824372
+Victoria Nacional,Avanza Pais,0.550391
+Victoria Nacional,Alianza para el Progreso,0.723784
+Victoria Nacional,APRA,0.598854
+Victoria Nacional,Democracia Directa,0.65595
+Victoria Nacional,Frente Amplio,0.668727
+Victoria Nacional,Frente Esperanza,0.600088
+Victoria Nacional,Fuerza Popular,0.69874
+Victoria Nacional,Juntos por el Peru,0.689971
+Victoria Nacional,Partido Nacionalista,0.629036
+Victoria Nacional,Peru Libre,0.659001
+Victoria Nacional,Patria Segura,0.814731
+Victoria Nacional,Podemos Peru,0.691565
+Victoria Nacional,PPC,0.794257
+Victoria Nacional,Renovavion Popular,0.556322
+Victoria Nacional,Somos Peru,0.835658
+Victoria Nacional,Union por el Peru,0.583906
+Victoria Nacional,Victoria Nacional,1.0
